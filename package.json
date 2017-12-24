@@ -1,0 +1,16 @@
+{
+  "name": "recursive-readir-sync",
+  "description": "list all files recursively by extension given",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "author": "Ashok <coderatlabs@gmail.com, suthar.ashok@outlook.com>",
+  "dependencies": {
+    "array-flatten": "^2.1.1"
+  },
+  "devDependencies": {
+    "tap": "^11.0.1"
+  }
+}
