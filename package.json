@@ -7,10 +7,19 @@
     "test": "tap test.js"
   },
   "author": "Ashok <coderatlabs@gmail.com, suthar.ashok@outlook.com>",
+  "keywords": [
+    "directory",
+    "lister",
+    "list",
+    "read",
+    "sync"
+  ],
   "dependencies": {
     "array-flatten": "^2.1.1"
   },
   "devDependencies": {
     "tap": "^11.0.1"
-  }
+  },
+  "repository": "aks-/recursive-readir-sync",
+  "license": "MIT"
 }
